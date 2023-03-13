@@ -1,0 +1,11 @@
+{
+  "infoUser": [
+    {
+      "name": "ANA",
+      "lastName":"HANSEN",
+      "userName": "standard_user",
+      "password": "secret_sauce",
+      "zip": "11001"
+    }
+  ]
+}
