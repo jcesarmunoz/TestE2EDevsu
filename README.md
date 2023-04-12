@@ -31,8 +31,7 @@ como Intellij, Netbeans o Eclipe**
 
 ## Pasos para ejecución
 
-1. Descargar el proyecto y dirigirse a la carpeta donde se encuentra
-    alojado en el equipo
+1. Descargar el proyecto y dirigirse a la carpeta donde se encuentra guardado en el equipo, luego ir a la ruta *E2EDevsu > serenity-cucumber-starter*
 2. Iniciar la consola o terminal en esta carpeta
 3. Ejecutar el siguiente comando 
 
